@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-ProjectWithReact/static/css/main.2389ba8d.css",
+    "main.js": "/Simple-ProjectWithReact/static/js/main.724dabde.js",
+    "index.html": "/Simple-ProjectWithReact/index.html",
+    "main.2389ba8d.css.map": "/Simple-ProjectWithReact/static/css/main.2389ba8d.css.map",
+    "main.724dabde.js.map": "/Simple-ProjectWithReact/static/js/main.724dabde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2389ba8d.css",
+    "static/js/main.724dabde.js"
+  ]
+}
